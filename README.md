@@ -10,7 +10,7 @@ La falla representa una franja de discontinuidad en el sustrato rocoso que modif
 La Comisión Especial Investigadora de la Cámara de Diputados publicó un informe al respecto el pasado 13 de octubre, en donde se señala que las nuevas viviendas que se construirán en la capital chilena estarán en la zona de riesgo de un eventual terremoto. El geógrafo Pablo Salucci menciona que “considerando la investigación que se ha realizado y la evidencia de otras fallas similares a la falla de Ramón en el mundo, sabemos que el sismo en el peor escenario puede alcanzar una magnitud de 7,5 y dada su característica de falla cortical (poco profunda), en un evento sísmico importante, puede producir aceleraciones del suelo muy intensas en las zonas cercanas a la falla”.
 
 Para la creaciónd e la infografía se pretende utilizar información de las siguientes referencias:
-- [https://web.archive.org/web/20100911130148/http://www.anip.cl/prensa/estudio-revela-que-falla-geologica-en-santiago-esta-activa-y-cruza-siete-comunas/]
-- [http://www.geofisica.cl/Tempo/mix/San_Ramon.htm]
-- [https://web.archive.org/web/20100823034210/http://revistaurbanismo.uchile.cl/n6/ferrandototal.html]
-- [https://web.archive.org/web/20100911130148/http://www.anip.cl/prensa/estudio-revela-que-falla-geologica-en-santiago-esta-activa-y-cruza-siete-comunas/]
+- https://web.archive.org/web/20100911130148/http://www.anip.cl/prensa/estudio-revela-que-falla-geologica-en-santiago-esta-activa-y-cruza-siete-comunas/
+- http://www.geofisica.cl/Tempo/mix/San_Ramon.htm
+- https://web.archive.org/web/20100823034210/http://revistaurbanismo.uchile.cl/n6/ferrandototal.html
+- https://web.archive.org/web/20100911130148/http://www.anip.cl/prensa/estudio-revela-que-falla-geologica-en-santiago-esta-activa-y-cruza-siete-comunas/
