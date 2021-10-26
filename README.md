@@ -1,5 +1,7 @@
 # Entrega 1
 
+### Falla San Ramón
+
 La Falla de Ramón es una falla geológica activa del tipo inversa que se encuentra situada al oriente de Santiago, la capital de Chile, siguiendo el pie de cerro de la sierra de Ramón a la que debe su nombre.
 La falla de Ramón se ubica a 5 km bajo la superficie terrestre y tiene una extensión de 25 km en sentido norte-sur. Se ubica entre los ríos Mapocho y Maipo, bordeando todo el frente cordillerano de la ciudad de Santiago, cruzando las comunas de Vitacura, Las Condes, La Reina, Peñalolén, La Florida y Puente Alto, aunque se piensa que podría prolongarse a Lo Barnechea y Pirque. Se puede identificar como un súbito escalón que se alza sobre el valle de Santiago se ubica entre la placa de Nazca y la placa Sudamericana.
 
