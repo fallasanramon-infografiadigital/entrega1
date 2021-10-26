@@ -18,3 +18,5 @@ Para la creación de la infografía se pretende utilizar información de las sig
 - http://www.geofisica.cl/Tempo/mix/San_Ramon.htm
 - https://web.archive.org/web/20100823034210/http://revistaurbanismo.uchile.cl/n6/ferrandototal.html
 - https://web.archive.org/web/20100911130148/http://www.anip.cl/prensa/estudio-revela-que-falla-geologica-en-santiago-esta-activa-y-cruza-siete-comunas/
+- https://revistaurbanismo.uchile.cl/index.php/RU/article/view/48216/52947
+
