@@ -51,6 +51,9 @@ Se concluye que los últimos sismos provocados por esta falla se dieron hasta 17
 
 Sin embargo, a pesar de que la falla tuvo un desplazamiento hace miles de años, esta no es una falla que tenga un peligro inminente, dado que su taza de deslizamiento o al menos lo que conocemos de su taza de deslizamiento es muy lenta. Por lo tanto la probabilidad de que se nuclee en un terremoto en esa falla es relativamente baja respecto de los terremotos de subducción.
 
+- Sismos recientes
+
+
 ### Referencias
 
 Para la creación de la infografía se pretende utilizar información de las siguientes referencias:
