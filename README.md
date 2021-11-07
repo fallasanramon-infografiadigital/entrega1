@@ -64,3 +64,4 @@ Para la creación de la infografía se pretende utilizar información de las sig
 - https://www.biobiochile.cl/noticias/nacional/chile/2020/11/08/viviendo-en-la-falla-de-san-ramon-todo-en-orden.shtml
 - http://revistas.ubiobio.cl/index.php/RU/article/view/4529/4018
 - https://www.uchile.cl/noticias/170291/estudio-analiza-el-impacto-de-la-falla-san-ramon-en-la-rm-
+- https://revistaurbanismo.uchile.cl/index.php/RU/article/view/48216/62321
