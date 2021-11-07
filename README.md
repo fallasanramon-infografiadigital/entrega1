@@ -11,6 +11,24 @@ La falla representa una franja de discontinuidad en el sustrato rocoso que modif
 
 La Comisión Especial Investigadora de la Cámara de Diputados publicó un informe al respecto el pasado 13 de octubre, en donde se señala que las nuevas viviendas que se construirán en la capital chilena estarán en la zona de riesgo de un eventual terremoto. El geógrafo Pablo Salucci menciona que “considerando la investigación que se ha realizado y la evidencia de otras fallas similares a la falla de Ramón en el mundo, sabemos que el sismo en el peor escenario puede alcanzar una magnitud de 7,5 y dada su característica de falla cortical (poco profunda), en un evento sísmico importante, puede producir aceleraciones del suelo muy intensas en las zonas cercanas a la falla”.
 
+## Riesgos Sísmicos
+
+Los estudios realizados con simulaciones para un sismo de magnitud 7.4Mw han identificado áreas las cuales tendrían distintos niveles de intensidad de movimiento y que irían entre Muy Alta-Alta, Media Alta y Media. Estas categorías están dadas por las aceleraciones del suelo que produciría dicho sismo y han sido establecidas de acuerdo a ciertas distancias según la simulación. Es así como las zonas que están dentro de los 2 kilómetros más próximos a la falla tendrían una mayor intensidad que aquellas que se encuentran a 10 kms. o más alejados de ella.
+
+-Área de intensidad Alta-alta
+
+El área en el que se percibirán intensidades muy altas o altas de acuerdo a las simulaciones, se encuentra distante hasta 8 kilómetros de la falla y tiene una superficie aproximada de 38.500 hectáreas. En esta área la población llega a los 515.522 habitantes los cuales pertenecen mayoritariamente a las comunas de Las Condes, Lo Barnechea y Puente Alto. En cuanto a los equipamientos del área con las mayores intensidades se identificaron son 226, correspondiendo las mayores cifras de estos a los establecimientos de educación básica y media, jardines infantiles y establecimientos de salud.
+
+- Área de Intensidad Media Alta
+
+El área que abarca las zonas de intensidad media alta, corresponde a casi 33.000 hectáreas y se encuentra a distancias de hasta 11,5 kilómetros de la falla. En el área de intensidad media alta la población asciende a los 863.696 habitantes y en este caso son las comunas de Puente Alto, La Florida, Peñalolén y Las Condes las cuales cuentan con mayor número de población dentro de dicha área.
+
+523 equipamientos fueron identificados en la zona de intensidad media alta, siendo los establecimientos de educación, los jardines infantiles y los supermercados los que concentraron la mayor cantidad de tipos de equipamientos presentes en la zona.
+
+- Área de Intensidad Media
+-En el área de intensidad media, la más baja de las tres, corresponde a áreas distantes hasta 14,7 kms de la falla y comprende una superficie de 50.073 hectáreas. Se encuentran, en el área de intensidad media, un total de 1.513.663 habitantes, los cuales pertenecen mayoritariamente a las comunas de Puente Alto, La Florida, Ñuñoa y Recoleta.
+
+En cuanto a los equipamientos identificados en el área con intensidad media, estos corresponden a 999 y en cuanto a sus funciones estos pertenecen mayoritariamente al tipo establecimientos de educación, jardines infantiles, establecimientos de salud y supermercados
 ### Referencias
 
 Para la creación de la infografía se pretende utilizar información de las siguientes referencias:
@@ -19,4 +37,5 @@ Para la creación de la infografía se pretende utilizar información de las sig
 - https://web.archive.org/web/20100823034210/http://revistaurbanismo.uchile.cl/n6/ferrandototal.html
 - https://web.archive.org/web/20100911130148/http://www.anip.cl/prensa/estudio-revela-que-falla-geologica-en-santiago-esta-activa-y-cruza-siete-comunas/
 - https://revistaurbanismo.uchile.cl/index.php/RU/article/view/48216/52947
+- https://www.bcn.cl/siit/actualidad-territorial/falla-san-ramon-riesgo-potencial-en-la-ciudad-de-santiago/document_view2
 
