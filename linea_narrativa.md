@@ -11,5 +11,8 @@ Puntos principales
 → Posible catástrofe: Magnitudes, ruptura, cambios geográficos, desniveles, cuando ocurre, predicciones, ciclos y monitoreo
 → Urbanización: Historia de cómo se ha construido alrededor de la falla scroll down: van pasando los años pa ver como aumentan las casas/edificios/idk
 ![crecimiento](Crecimiento.jpg)
+
+
+
 → Mapa de su ubicación actual / áreas de peligro hover y clicks (Cuánta gente vive, que edificaciones hay, hectáreas, etc)
 ![alta](alta-alta.png) ![media alta](media-alt.png) ![media](media.png)
