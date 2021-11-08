@@ -3,6 +3,7 @@
 "Una falla geológica es una discontinuidad entre macizos de rocas en la cual ha ocurrido un desplazamiento relativo entre 2 o mas bloques."
 
 Existen tres tipos de fallas:
+
 -Normal: Fallas con un plano inclinado donde el bloque colgante se desplaza hacia abajo con respecto al bloque yacente.
 
 
