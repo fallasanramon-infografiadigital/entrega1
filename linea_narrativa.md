@@ -11,6 +11,8 @@ Puntos principales
 
 → ¿Qué es la falla de San Ramón? (qué tipo, dónde está + mapa, longitud, profundidad, áreas de riesgo, zonas involucradas, principales características etc etc…)
 
+![ramon](falla.jpeg)
+
 
 
 → Posible catástrofe: Magnitudes, ruptura, cambios geográficos, desniveles, cuando ocurre, predicciones, ciclos y monitoreo
