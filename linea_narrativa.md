@@ -1,3 +1,5 @@
+#Linea Narrativa
+
 -Quién lo va a leer: Personas que viven en Santiago.
 
 -Qué quieren los lectores: Informarse de la Falla de San Ramón para estar conscientes de posibles catástrofes. 
