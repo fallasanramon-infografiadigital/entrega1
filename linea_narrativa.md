@@ -19,6 +19,8 @@ Puntos principales
 
 ![crecimiento](Crecimiento.jpg)
 
+![crecimiento urbano](evolucion_urbana.png)
+
 
 
 
