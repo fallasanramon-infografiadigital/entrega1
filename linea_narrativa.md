@@ -1,5 +1,7 @@
 -Quién lo va a leer: Personas que viven en Santiago.
+
 -Qué quieren los lectores: Informarse de la Falla de San Ramón para estar conscientes de posibles catástrofes. 
+
 -Que queremos nosotras: Informarlos y hacer consciencia sobre los riesgos de la falla.
 
 Puntos principales
