@@ -3,13 +3,14 @@
 -Que queremos nosotras: Informarlos y hacer consciencia sobre los riesgos de la falla.
 
 Puntos principales
-→ ¿Qué es una falla? 
+→ ¿Qué es una falla? (Contextualización general)
+
 → ¿Qué es la falla de San Ramón? (qué tipo, dónde está + mapa, longitud, profundidad, áreas de riesgo, zonas involucradas, principales características etc etc…)
 
 
 
 → Posible catástrofe: Magnitudes, ruptura, cambios geográficos, desniveles, cuando ocurre, predicciones, ciclos y monitoreo
-→ Urbanización: Historia de cómo se ha construido alrededor de la falla scroll down: van pasando los años pa ver como aumentan las casas/edificios/idk
+→ Urbanización: Historia de cómo se ha construido alrededor de la falla (scroll down: Cómo la urbanización aumenta según el pasar de los años, edificios, casas, establecimientos, etc)
 
 
 ![crecimiento](Crecimiento.jpg)
